@@ -1,8 +1,8 @@
-# zichain-ico-api
+# broker-api
 
 ## Description
 
-Zichain ICO API
+Broker for business API
 
 ## Installation
 
